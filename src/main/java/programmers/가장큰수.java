@@ -1,6 +1,6 @@
 package programmers;
 
-import static java.lang.CharSequence.compare;
+// import static java.lang.CharSequence.compare;
 
 import java.util.ArrayList;
 import java.util.List;
